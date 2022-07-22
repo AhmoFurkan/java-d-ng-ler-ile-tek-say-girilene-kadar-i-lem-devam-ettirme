@@ -22,4 +22,5 @@ Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul
 
       }
     }
+![image](https://user-images.githubusercontent.com/107626332/180398206-0cd3daaa-f192-499a-a9ed-f0af4ec8d920.png)
 
